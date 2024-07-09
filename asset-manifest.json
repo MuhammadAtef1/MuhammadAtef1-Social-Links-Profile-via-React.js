@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/css/main.1e0ea5a4.css",
+    "main.js": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/js/main.c45ae67b.js",
+    "static/js/453.161e13bd.chunk.js": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/js/453.161e13bd.chunk.js",
+    "index.html": "/MuhammadAtef1-Social-Links-Profile-via-React.js/index.html",
+    "main.1e0ea5a4.css.map": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/css/main.1e0ea5a4.css.map",
+    "main.c45ae67b.js.map": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/js/main.c45ae67b.js.map",
+    "453.161e13bd.chunk.js.map": "/MuhammadAtef1-Social-Links-Profile-via-React.js/static/js/453.161e13bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0ea5a4.css",
+    "static/js/main.c45ae67b.js"
+  ]
+}
